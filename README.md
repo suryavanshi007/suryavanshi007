@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Suryavanshi</h1>
 <h3 align="center">A passionate full-Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3BOVhjIOanpKpqPBvZgEqQ&ust=1648712539991000&source=images&cd=vfe&ved=2ahUKEwizlsT7qu32AhVs0qACHejxBDwQjRx6BAgAEAk">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryavanshi007&label=Profile%20views&color=0e75b6&style=flat" alt="suryavanshi007" /> </p>
 
